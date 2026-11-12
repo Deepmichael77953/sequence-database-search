@@ -1,0 +1,20 @@
+BLASTN 2.16.0+
+Database: Nucleotide collection (nt)
+Query= Unknown_Query_Seq_01 Human beta-globin (HBB) partial coding region (300 letters)
+
+Recorded Parameters:
+  Program          : blastn
+  Database         : nt
+  Expect threshold : 1e-05
+  Word size        : 11
+  Match/Mismatch   : 2, -3
+  Gap costs        : Existence 5, Extension 2
+
+Sequences producing significant alignments:                          Score    E
+                                                                     (Bits)  Value
+
+NM_000518.5  Homo sapiens hemoglobin subunit beta (HBB), mRNA         555    2e-154
+NG_059281.1  Homo sapiens hemoglobin subunit beta (HBB) RefSeqGene    555    2e-154
+XM_006718193 Pan troglodytes hemoglobin subunit beta (HBB), mRNA      549    9e-153
+XM_004050763 Gorilla gorilla gorilla hemoglobin subunit beta, mRNA    544    4e-151
+NM_001164428 Macaca mulatta hemoglobin subunit beta (HBB), mRNA       516    1e-142
